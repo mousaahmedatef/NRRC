@@ -1,2 +1,2 @@
-
-https://apig-stg.nrrc.gov.local/gateway/CFileNetAPI/1.0
+uat => https://emergency-exercise.nrrc.gov.local/login
+prod => https://emergency.nrrc.gov.local/login
