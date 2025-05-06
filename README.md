@@ -1,14 +1,1 @@
-
-تمرين   تمرين   تمرين 
-
-https://teams.live.com/meet/93902385983717?p=SBtWFCHV7jW6Bm1qVM
-
-exercise 
-تم إنشاء اسم مستخدم وكلمة مرور لصاحب رقم الهوية المنتهية بـ:*******111
-كلمة المرور لحسابكم: /I.Q16c6))
-
-https://emergency.nrrc.gov.sa/
-
-المنصة الوطنية للتواصل في حالات الطوارئ النووية والإشعاعية
-
-
+https://teams.live.com/meet/9342710266146?p=bmYBnWLXVXSZKOkcZz
