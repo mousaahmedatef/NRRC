@@ -1,6 +1,2 @@
 
-https://teams.live.com/meet/9371848906276?p=2HfPowSjp8D22sZPzV
-
-Emergency_Incident_GetAllIncidentForEntity
-Emergency_Incident_GetAllIncidentCountForEntity
-Emergency_Incident_GetAllInformationAndGuidance
+https://teams.live.com/meet/9348784349452?p=1j8DarQL9vcX1qSTvA
